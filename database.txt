@@ -1,0 +1,31 @@
+
+const card_content=[
+    {
+        id: 1,
+        date_post : "July 25th",
+        post_type : "#gtco-business",
+        author_img : "images/harsh-th.jpg",
+        author_name : "Harshvardhan Singh",
+        href_link : "#post1",
+        title : "Sample title"
+    },
+    {
+        id: 2,
+        date_post : "December 31st",
+        post_type : "#gtco-policy",
+        author_img : "images/harsh-th.jpg",
+        author_name : "Harshvardhan Singh",
+        href_link : "#post1",
+        title : "Sample title2"
+    },
+    {
+        id: 3,
+        date_post : "March 26th",
+        post_type : "#gtco-tech",
+        author_img : "images/prakhar.JPG",
+        author_name : "Prakhar Rathi",
+        href_link : "#post1",
+        title : "Sample title3"
+    }
+];
+
